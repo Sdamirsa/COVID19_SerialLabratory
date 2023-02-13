@@ -1,0 +1,1 @@
+This is the code used for the article entitled "Serial and Admittance Laboratory Profile of COVID-19: Dynamic Trend of Poor Prognostic Biomarkers." This research is part of ["Tehran COVID-19 Cohort"](https://github.com/Sdamirsa/Tehran_COVID_Cohort/)project
